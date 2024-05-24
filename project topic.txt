@@ -1,5 +1,5 @@
-1.Background video in website
-2.
+1.Background video in website ✅
+2.Loading animation ✅
 3.
 4.
 5.
